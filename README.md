@@ -1,5 +1,5 @@
  --- math_force_arena ---
-Developed by Tural Alizada.
+Developed by Tural Alizada in Processing (https://processing.org/)
 
 This game was developed for the competition organised by https://www.kododulleri.com/
 
